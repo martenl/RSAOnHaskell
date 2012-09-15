@@ -1,0 +1,14 @@
+Name:                RSA
+Version:             0.1
+Synopsis:            A simple Implementation of RSA in Haskell
+Description:         My super cool, indeed, even mega lambdas 
+                     will demonstrate a basic project. You will marvel.
+License:             GPL
+License-file:        LICENSE.txt
+Author:              Marten Losansky
+Maintainer:          Marten Losansky
+Build-Depends:       base
+
+Executable:          RSA
+Main-is:             RSA.hs
+
